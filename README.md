@@ -1,6 +1,6 @@
 # PDF DeepSeek Parser
 
-一个基于 FastAPI + Vue 3 的 PDF 论文解析器，支持智能摘要生成和双语翻译。
+一个基于 FastAPI + Vue 3 的运行在本地浏览器的 PDF 论文解析器，支持智能摘要生成和双语翻译。
 
 ## 功能特性
 
@@ -72,19 +72,20 @@ npm run dev
 ## 截图预览
 
 ### 首页 - 上传 PDF
-![首页](screenshots/iShot_2026-05-14_18.17.38.png)
+![纯译文](screenshots/iShot_2026-05-14_18.18.17.png)
+
 
 ### 原文阅读模式
-![原文](screenshots/iShot_2026-05-14_18.17.53.png)
+![首页](screenshots/iShot_2026-05-14_18.17.38.png)
 
 ### 摘要生成
-![摘要](screenshots/iShot_2026-05-14_18.18.01.png)
+![原文](screenshots/iShot_2026-05-14_18.17.53.png)
 
 ### 翻译模式 - 原文对照
 ![翻译对照](screenshots/iShot_2026-05-14_18.18.08.png)
 
 ### 翻译模式 - 纯译文
-![纯译文](screenshots/iShot_2026-05-14_18.18.17.png)
+![摘要](screenshots/iShot_2026-05-14_18.18.01.png)
 
 ## 项目结构
 
