@@ -69,6 +69,23 @@ npm run dev
 
 打开浏览器访问 http://localhost:5173
 
+## 截图预览
+
+### 首页 - 上传 PDF
+![首页](screenshots/iShot_2026-05-14_18.17.38.png)
+
+### 原文阅读模式
+![原文](screenshots/iShot_2026-05-14_18.17.53.png)
+
+### 摘要生成
+![摘要](screenshots/iShot_2026-05-14_18.18.01.png)
+
+### 翻译模式 - 原文对照
+![翻译对照](screenshots/iShot_2026-05-14_18.18.08.png)
+
+### 翻译模式 - 纯译文
+![纯译文](screenshots/iShot_2026-05-14_18.18.17.png)
+
 ## 项目结构
 
 ```
